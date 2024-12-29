@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom ExoPlayer</string>
+    <string name="drm_license_url"><![CDATA[https://proxy.uat.widevine.com/proxy?video_id=tears&provider=widevine_test]]></string>
+</resources>
