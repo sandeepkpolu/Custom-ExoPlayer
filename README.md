@@ -23,3 +23,4 @@ The Video Player App is an advanced Android application designed to provide a se
 
 **Prevents restart on configuration changes**
 
+![Screenshot_20241229_135911](https://github.com/user-attachments/assets/2a4d5292-0e88-4c11-ac6d-9b8c8a6b20c4)
